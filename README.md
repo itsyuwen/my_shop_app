@@ -41,6 +41,7 @@ This project is part of an online shopping application. The service being descri
 | GET             | `/orders/{orderId}`             | Retrieves detailed information about a specific order.     |
 | PATCH           | `/orders/{orderId}/status`      | Updates the status of an order.                            |
 
+```
 ## How to Run the Project
 
 1. **Prerequisites**:
